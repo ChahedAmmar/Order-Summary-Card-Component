@@ -13,6 +13,6 @@ A simple frontend challenge to build an order summary card based on a design ins
 - CSS
 - 
 ## 📸 Preview
-![Preview](./images/images/preview.png)
+![Preview](./images/preview.png)
 
 
